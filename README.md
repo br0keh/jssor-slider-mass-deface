@@ -1,2 +1,4 @@
-# Jssor-Slide--Mass-Deface-Upload
-Jssor Slider (Wordpress Plugin) Exploit - Mass Deface Upload
+# jssor-slider-mass-deface
+
+**Dork:** inurl:"/wp-content/jssor-slider"
+**Usage:** python exploit.py <website-list.txt> <deface.htm>
